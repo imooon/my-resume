@@ -173,3 +173,18 @@ footer {
         height: 50px;
     }
 }
+
+section {
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3 {
+    color: #0066cc;
+    font-family: 'Merriweather', serif;
+    margin-top: 0;
+}
+
